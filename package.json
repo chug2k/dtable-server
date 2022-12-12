@@ -20,7 +20,7 @@
     "csv": "^5.3.2",
     "detect-character-encoding": "^0.8.0",
     "dtable-store": "^0.1.23",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "iconv-lite": "^0.5.1",
     "jsonwebtoken": "^8.5.1",
     "log4js": "^4.5.1",
